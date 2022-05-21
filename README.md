@@ -18,6 +18,7 @@
 3: Mô tả các chức năng đã cài đặt
   - Dùng các phím mũi tên để di chuyển (phím lên và phím X để quay các khối)
   - Phím Space để cho các khối xuống luôn mà không cần chờ 
+  - Cho biết khối tiếp theo là khối nào
   - Phím C để đổi khối hiện tại với khối đang được giữ (Nếu chưa có khối nào được giữ thì đưa khối hiện tại lên chỗ giữ khối và đổi với khối tiếp theo)
   - Phím Enter để lựa chọn
   - Phím P để pause

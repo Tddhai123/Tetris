@@ -9,3 +9,8 @@
   B3: Sau khi mở được project trên CodeBlocks thì vào Build -> Build and run (hoặc ấn F9) để có thể chạy chương trình
   
   Các file SDL2 đã được để sẵn trong folder SDL2 nên không cần tải về nữa
+
+2: Mô tả chung về trò chơi
+  - Tương tự như game Tetris cổ điển
+  - Ta sẽ xếp các khối sao cho thành hàng ngang hoàn chỉnh để có thể bỏ được hàng đó đi
+  - Được càng nhiểu điểm thì tốc độ rơi càng nhanh

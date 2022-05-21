@@ -2,7 +2,7 @@
 
 1: Hướng dẫn cài đặt(cho Windows)
 
-  B1: Tải CodeBlocks bản codeblocks-20.03mingw-setup.exe ở link http://www.codeblocks.org/downloads/binaries/
+  B1: Tải CodeBlocks bản codeblocks-20.03mingw-setup.exe ở link: http://www.codeblocks.org/downloads/binaries/
   
   B2: Tải code về rồi giải nén, sau đó chạy file Tetris.cbp
   
@@ -24,7 +24,7 @@
   - Phím P để pause
   - Phím Escape để quay lại
   - Trong phần Options thì có đổi kích thước màn hình và tắt/bật ghost block
-  - Link video demo chức năng: 
+  - Link video demo chức năng: https://www.youtube.com/watch?v=SJPkIlQs4Zo
 
 4: Các kĩ thuật lập trình được sử dụng trong chương trình
   - Đồ họa SDL, SDL_image, SDL_ttf

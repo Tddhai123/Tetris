@@ -1,6 +1,6 @@
 ---------------------------------------------------------TETRIS---------------------------------------------------------
 
-1: Hướng dẫn cài đặt(cho Windows)
+## 1: Hướng dẫn cài đặt(cho Windows)
 
   B1: Tải CodeBlocks bản codeblocks-20.03mingw-setup.exe ở link: http://www.codeblocks.org/downloads/binaries/
   
@@ -10,12 +10,12 @@
   
   Các file SDL2 đã được để sẵn trong folder SDL2 nên không cần tải về nữa
 
-2: Mô tả chung về trò chơi
+## 2: Mô tả chung về trò chơi
   - Tương tự như game Tetris cổ điển
   - Ta sẽ xếp các khối sao cho thành hàng ngang hoàn chỉnh để có thể bỏ được hàng đó đi
   - Được càng nhiểu điểm thì tốc độ rơi càng nhanh
 
-3: Mô tả các chức năng đã cài đặt
+## 3: Mô tả các chức năng đã cài đặt
   - Dùng các phím mũi tên để di chuyển (phím lên và phím X để quay các khối)
   - Phím Space để cho các khối xuống luôn mà không cần chờ 
   - Cho biết khối tiếp theo là khối nào
@@ -26,13 +26,13 @@
   - Trong phần Options thì có đổi kích thước màn hình và tắt/bật ghost block
   - Link video demo chức năng: https://www.youtube.com/watch?v=SJPkIlQs4Zo
 
-4: Các kĩ thuật lập trình được sử dụng trong chương trình
+## 4: Các kĩ thuật lập trình được sử dụng trong chương trình
   - Đồ họa SDL, SDL_image, SDL_ttf
   - Mảng, swap, con trỏ
   - Class, vòng lặp
   - Vector, load ảnh từ file
 
-5: Kết luận
+## 5: Kết luận
   - Các hàm cơ bản của đối tượng được tham khảo từ phattrienphanmem123
   - Các hàm nâng cao hơn về game học từ lazyfoo
   - Hướng phát triển
